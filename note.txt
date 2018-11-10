@@ -1,0 +1,5 @@
+Animation Contoller - 제어 (하자만 있으면 된다.)
+Animation Statment에서 
+
+Animations(애니메이션 많음)
+

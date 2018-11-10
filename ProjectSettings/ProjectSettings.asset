@@ -695,7 +695,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
   cloudProjectId: 54c2af41-4691-4e5b-b988-0393bdfe9896
-  projectName: 2D Roguelike
+  projectName: Scavengers
   organizationId: whitedaydream
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
